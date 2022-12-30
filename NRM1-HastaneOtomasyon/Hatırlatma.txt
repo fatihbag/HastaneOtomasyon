@@ -1,0 +1,3 @@
+﻿// Core katmanında IBaseRepository Yazılacak!!!
+
+//Validation Yazalım Doğum Tarihi İçin!!! Doğum Tarihi prop eklememiz gerekmektedir!!
